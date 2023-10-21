@@ -1,0 +1,50 @@
+/* Portfolio.css */
+.portfolio {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #007442;
+    opacity: 0.5;
+    color: wheat;
+    font-weight: bold;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-size: 1.5rem;
+  }
+  
+  main {
+    color: white;
+    max-width: 800px;
+    text-shadow: 2px 2px 5px black;
+    margin: 0 auto;
+  }
+  
+  .about, .projects, .contact {
+    margin: 20px 0;
+  }
+  
+  .about h2, .projects h2, .contact h2 {
+    font-size: 1.8rem;
+  }
+  
+  .project {
+    margin: 10px 0;
+  }
+  
+  .project h3 {
+    font-size: 1.5rem;
+  }
+  
+  p{
+     
+ 
+  }
